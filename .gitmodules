@@ -1,0 +1,6 @@
+[submodule "GymnasioEticBack"]
+	path = GymnasioEticBack
+	url = https://github.com/JHurtadoS/GymnasioEticBack.git
+[submodule "GymFrontend"]
+	path = GymFrontend
+	url = https://github.com/JHurtadoS/GymFrontend.git
